@@ -4,5 +4,5 @@
 
 Thank you
 
-Okta Education Services
-#OktaEdu
+<p>Okta Education Services</p>
+<p>#OktaEdu</p>
