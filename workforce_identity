@@ -1,36 +1,35 @@
-•	Okta FAQs: https://www.okta.com/faq/
-•	Okta Status (Trust) Page: https://status.okta.com/
-•	Okta Trust Page RSS link: http://feeds.feedburner.com/OktaTrustRSS
-•	Okta Terminology: https://support.okta.com/help/Documentation/Knowledge_Article/27838096-Okta-Terminology
-•	Getting Started as a New Administrator: https://support.okta.com/help/s/article/Getting-Started-as-a-New-Okta-Administrator
-•	End User Adoption Toolkit: https://support.okta.com/help/s/article/End-User-Adoption-Toolkit
-•	Browsers and OS’s Okta supports: https://help.okta.com/en/prod/Content/Topics/Miscellaneous/Platforms_Browser_OS_Support.htm
-•	Okta’s Approach to Security: https://support.okta.com/help/Documentation/Knowledge_Article/28503326-Oktas-Approach-to-Security
-•	Configuring the Okta Active Directory Agent: https://help.okta.com/en/prod/Content/Topics/Directory/ad-agent-install.htm
-•	Install and Configure IWA for DSSO: https://help.okta.com/en/prod/Content/Topics/Directory/Configuring_Desktop_SSO.htm
-•	Agentless DSSO: https://help.okta.com/en/prod/Content/Topics/Directory/Configuring_Agentless_SSO.htm
-•	Using Password Sync: https://help.okta.com/en/prod/Content/Topics/Security/Security_Using_Sync_Password.htm
-•	Okta and AD Groups: https://help.okta.com/en/prod/Content/Topics/Directory/Directory_FAQ_Okta_and_AD_Groups.htm
-•	AD Agent Long Polling: https://oktawiki.atlassian.net/wiki/spaces/CUST/pages/7340148/AD+Agent+Long+Polling
+•	Okta FAQs: <a href="https://www.okta.com/faq/</a>
+•	Okta Status (Trust) Page: <a href="https://status.okta.com/</a>
+•	Okta Trust Page RSS link: <a href="http://feeds.feedburner.com/OktaTrustRSS</a>
+•	Okta Terminology: <a href="https://support.okta.com/help/Documentation/Knowledge_Article/27838096-Okta-Terminology</a>
+•	Getting Started as a New Administrator: <a href="https://support.okta.com/help/s/article/Getting-Started-as-a-New-Okta-Administrator</a>
+•	End User Adoption Toolkit: <a href="https://support.okta.com/help/s/article/End-User-Adoption-Toolkit</a>
+•	Browsers and OS’s Okta supports: <a href="https://help.okta.com/en/prod/Content/Topics/Miscellaneous/Platforms_Browser_OS_Support.htm</a>
+•	Okta’s Approach to Security: <a href="https://support.okta.com/help/Documentation/Knowledge_Article/28503326-Oktas-Approach-to-Security</a>
+•	Configuring the Okta Active Directory Agent: <a href="https://help.okta.com/en/prod/Content/Topics/Directory/ad-agent-install.htm</a>
+•	Install and Configure IWA for DSSO: <a href="https://help.okta.com/en/prod/Content/Topics/Directory/Configuring_Desktop_SSO.htm</a>
+•	Agentless DSSO: <a href="https://help.okta.com/en/prod/Content/Topics/Directory/Configuring_Agentless_SSO.htm</a>
+•	Using Password Sync: <a href="https://help.okta.com/en/prod/Content/Topics/Security/Security_Using_Sync_Password.htm</a>
+•	Okta and AD Groups: <a href="https://help.okta.com/en/prod/Content/Topics/Directory/Directory_FAQ_Okta_and_AD_Groups.htm</a>
+•	AD Agent Long Polling: <a href="https://oktawiki.atlassian.net/wiki/spaces/CUST/pages/7340148/AD+Agent+Long+Polling</a>
 •	Backdoor URL to bypass Desktop SSO: company.okta.com/login/default
-•	LDAP Agent Deployment Guide: https://support.okta.com/help/Documentation/Knowledge_Article/87604166-LDAP-Agent-Deployment-Guide
-•	Tips for working with Group Rules: https://help.okta.com/en/prod/Content/Topics/Directory/Directory_Groups.htm
-•	Deactivate Group Rules via a Script: https://developer.okta.com/docs/api/resources/groups#deactivate-a-group-rule
-•	Configure Applications: https://help.okta.com/en/prev/Content/Topics/Apps/Apps_Apps.htm?cshid=Applications_Applications
-•	Beginner’s Guide to SAML: https://support.okta.com/help/Documentation/Knowledge_Article/Beginner-s-Guide-to-SAML
-•	Troubleshooting the Okta Browser Plugin: https://support.okta.com/help/answers?id=9062A000000bm91QAA
-•	Direct link to the OIN Manager: https://oanmanager.okta.com/
-•	Okta Expression Language: http://developer.okta.com/reference/okta_expression_language/
-•	Attribute Level Mastering (ALM): https://help.okta.com/en/prod/Content/Topics/Directory/Attribute_Level_Mastering.htm
-•	Okta Security Technical White Paper: https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/
-•	Authentication: https://support.okta.com/help/Documentation/Knowledge_Article/Authentication-1407894845
-•	The Okta API: https://help.okta.com/en/prod/Content/Topics/Security/API.htm
-•	API Rate Limits: https://developer.okta.com/docs/api/getting_started/rate-limits
-•	Okta Release Notes: https://help.okta.com/en/prod/Content/Topics/ReleaseNotes/okta-rel-notes.htm
-•	Early Access Features: https://help.okta.com/en/prev/Content/Topics/ReleaseNotes/early-access.htm
-•	Business at Work Report: https://www.okta.com/Businesses-At-Work/
-•	BETA Program: https://www.okta.com/Businesses-At-Work/2017-01/
-•	Developer Sandbox: https://www.okta.com/platform-signup/
-•	Pending/Closed Support Cases: https://support.okta.com/help/cases
-•	Configuring SCIM on Okta: https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/scim-okta.htm
-•	Email & SMS Template Customization: https://help.okta.com/en/prod/Content/Topics/Settings/Settings_Email.htm
+•	LDAP Agent Deployment Guide: <a href="https://support.okta.com/help/Documentation/Knowledge_Article/87604166-LDAP-Agent-Deployment-Guide</a>
+•	Tips for working with Group Rules: <a href="https://help.okta.com/en/prod/Content/Topics/Directory/Directory_Groups.htm</a>
+•	Deactivate Group Rules via a Script: <a href="https://developer.okta.com/docs/api/resources/groups#deactivate-a-group-rule</a>
+•	Configure Applications: <a href="https://help.okta.com/en/prev/Content/Topics/Apps/Apps_Apps.htm?cshid=Applications_Applications</a>
+•	Beginner’s Guide to SAML: <a href="https://support.okta.com/help/Documentation/Knowledge_Article/Beginner-s-Guide-to-SAML</a>
+•	Troubleshooting the Okta Browser Plugin: <a href="https://support.okta.com/help/answers?id=9062A000000bm91QAA</a>
+•	Direct link to the OIN Manager: <a href="https://oanmanager.okta.com/</a>
+•	Okta Expression Language: <a href="http://developer.okta.com/reference/okta_expression_language/</a>
+•	Attribute Level Mastering (ALM): <a href="https://help.okta.com/en/prod/Content/Topics/Directory/Attribute_Level_Mastering.htm</a>
+•	Okta Security Technical White Paper: <a href="https://www.okta.com/resources/whitepaper/okta-security-technical-white-paper/</a>
+•	Authentication: <a href="https://support.okta.com/help/Documentation/Knowledge_Article/Authentication-1407894845</a>
+•	The Okta API: <a href="https://help.okta.com/en/prod/Content/Topics/Security/API.htm</a>
+•	API Rate Limits: <a href="https://developer.okta.com/docs/api/getting_started/rate-limits</a>
+•	Okta Release Notes: <a href="https://help.okta.com/en/prod/Content/Topics/ReleaseNotes/okta-rel-notes.htm</a>
+•	Early Access Features: <a href="https://help.okta.com/en/prev/Content/Topics/ReleaseNotes/early-access.htm</a>
+•	Business at Work Report: <a href="https://www.okta.com/Businesses-At-Work/</a>
+•	BETA Program: <a href="https://www.okta.com/Businesses-At-Work/2017-01/</a>
+•	Pending/Closed Support Cases: <a href="https://support.okta.com/help/cases</a>
+•	Configuring SCIM on Okta: <a href="https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/scim-okta.htm</a>
+•	Email & SMS Template Customization: <a href="https://help.okta.com/en/prod/Content/Topics/Settings/Settings_Email.htm</a>
